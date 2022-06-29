@@ -1,0 +1,21 @@
+<svg id="Component_12_1" data-name="Component 12 – 1" xmlns="http://www.w3.org/2000/svg" width="821.973" height="70" viewBox="0 0 821.973 70">
+  <path id="Path_6" data-name="Path 6" d="M29.43,0H792.543c16.254,0,29.43,15.49,29.43,34.6v.8c0,19.108-13.176,34.6-29.43,34.6H29.43C13.176,70,0,54.51,0,35.4v-.8C0,15.49,13.176,0,29.43,0Z" fill="#f0f1f6"/>
+  <g id="Group_4" data-name="Group 4">
+    <path id="Path_5" data-name="Path 5" d="M13.236,0H429.9c7.31,0,13.236,7.363,13.236,16.446v5.921c0,9.083-5.926,16.446-13.236,16.446H13.236C5.926,38.813,0,31.449,0,22.367V16.446C0,7.363,5.926,0,13.236,0Z" transform="translate(351.857 11.594)" fill="#fff"/>
+    <text id="https_heya.yo_asfhdwhhkjfawldozx" data-name="https//heya.yo/#asfhdwhhkjfawldozx" transform="translate(465.973 38)" fill="#8d8b8b" font-size="20" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300" opacity="0.53"><tspan x="0" y="0">https//heya.yo/#asfhdwhhkjfawldozx</tspan></text>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="12.5" cy="12.5" r="12.5" transform="translate(369.973 19)" fill="#ddd"/>
+  </g>
+  <g id="Group_1" data-name="Group 1" transform="translate(34.973 15.783)">
+    <path id="Path_4" data-name="Path 4" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" fill="#fc4545"/>
+    <path id="Path_2" data-name="Path 2" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(49.487)" fill="#f7fc76"/>
+    <path id="Path_3" data-name="Path 3" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(98.973)" fill="#6af14e"/>
+  </g>
+  <g id="Group_2" data-name="Group 2">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="30" height="30" rx="6" transform="translate(200.973 16)" fill="#fff"/>
+    <text id="_" data-name="&lt;" transform="translate(202.125 41)" fill="#707070" stroke="#707070" stroke-width="1" font-size="35" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300" opacity="0.75"><tspan x="0" y="0">&lt;</tspan></text>
+  </g>
+  <g id="Group_3" data-name="Group 3">
+    <rect id="Rectangle_4-2" data-name="Rectangle 4" width="30" height="30" rx="6" transform="translate(252.973 16)" fill="#fff"/>
+    <text id="_2" data-name="&gt;" transform="translate(256.864 41)" fill="#707070" stroke="#707070" stroke-width="1" font-size="35" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300" opacity="0.75"><tspan x="0" y="0">&gt;</tspan></text>
+  </g>
+</svg>

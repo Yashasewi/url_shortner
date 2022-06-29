@@ -1,0 +1,6 @@
+<svg id="Component_10_1" data-name="Component 10 – 1" xmlns="http://www.w3.org/2000/svg" width="1290.244" height="83.225" viewBox="0 0 1290.244 83.225">
+  <path id="Path_1" data-name="Path 1" d="M0,0H143c23.748,0,43,18.58,43,41.5S166.748,83,143,83H0Z" transform="translate(1104.244)" fill="#2ad0d3"/>
+  <path id="Rectangle_3" data-name="Rectangle 3" d="M41.5,0H1104a0,0,0,0,1,0,0V83a0,0,0,0,1,0,0H41.5A41.5,41.5,0,0,1,0,41.5v0A41.5,41.5,0,0,1,41.5,0Z" transform="translate(0 0.225)" fill="#fff"/>
+  <text id="Short" transform="translate(1127 59.225)" fill="#fff" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" opacity="0.83"><tspan x="0" y="0">Short</tspan></text>
+  <text id="paste_your_link_here" data-name="paste your link here" transform="translate(60 58.225)" fill="#abb0c6" font-size="39" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300" opacity="0.47"><tspan x="0" y="0">paste your link here</tspan></text>
+</svg>
