@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
 
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   /* background-color: aquamarine; */
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 
 /*
  header
@@ -18,7 +17,7 @@ header {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   justify-content: flex-start;
   align-items: center;
-  padding: 20px 3% ;
+  padding: 20px 3%;
   color: hsl(0, 0%, 75%);
   font-weight: 700;
   font-size: 16px;
@@ -26,33 +25,32 @@ header {
   /* gap: 20px; */
 }
 
-
-.logo {  /* logo */
+.logo {
+  /* logo */
   cursor: pointer;
 }
 
-/* features pricing resoures */
-.nav-bar{
+/* features pricing Resources */
+.nav-bar {
   margin-right: auto;
   margin-left: 20px;
 }
-.nav-list{
+.nav-list {
   list-style: none;
   justify-content: center;
   align-items: center;
 }
-.nav-list li{
+.nav-list li {
   display: inline-block;
-  padding: 0px 25px 0px ;
+  padding: 0px 25px 0px;
 }
 /* items of list */
-.items{
+.items {
   transition: all 0.3s ease-in-out;
 }
-.items:hover{
+.items:hover {
   color: hsl(257, 7%, 63%);
 }
-
 
 /* button */
 .nav-bar-button button {
@@ -63,7 +61,7 @@ header {
   margin-right: auto;
 }
 
-.login{
+.login {
   color: hsl(0, 0%, 75%);
   width: 95px;
   height: 40px;
@@ -72,13 +70,12 @@ header {
   background-color: rgb(255, 255, 255);
   transition: all 0.3s ease-in-out;
 }
-.login:hover{
+.login:hover {
   color: hsl(257, 7%, 63%);
   width: 100px;
   background-color: rgb(255, 255, 255);
 }
-
-.sign_up{
+.sign_up { /* sign up  */
   background-color: hsl(180, 66%, 49%);
   color: hsl(0, 0%, 100%);
   border: 0;
@@ -87,7 +84,7 @@ header {
   height: 40px;
   transition: all 0.3s ease-in-out;
 }
-.sign_up:hover{
+.sign_up:hover {
   background-color: hsl(180, 73%, 49%);
   /* color: hsla(180, 64%, 26%, 0.582); */
   width: 97px;
@@ -95,12 +92,6 @@ header {
   box-shadow: 0px 0px 12px 2px hsla(0, 0%, 0%, 0.1);
 }
 
-
-
-
-
-
-
 /*
- intro
+ intro 
   */
