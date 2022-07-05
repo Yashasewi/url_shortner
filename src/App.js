@@ -6,17 +6,15 @@ import Boost from './components/Boost';
 import Footer from './components/Footer';
 
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <Header />
       <Intro />
-      <Url />
-      <Statistics />
+      <Url /> 
+     <Statistics />
       <Boost />
       <Footer />
     </div>
   );
 }
-
-export default App;

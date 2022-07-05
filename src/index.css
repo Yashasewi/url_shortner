@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
 * {
   font-family: "Poppins", sans-serif;
   /* background-color: aquamarine; */
@@ -14,7 +13,7 @@
 
 header {
   display: flex;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
   justify-content: flex-start;
   align-items: center;
   padding: 20px 3%;
