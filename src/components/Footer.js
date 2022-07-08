@@ -4,8 +4,10 @@ export default function Footer() {
   return (
     <>
         <footer className='footer'>
+            <ul>
             <h4>Shortly</h4>
             <p>A simple URL shortener</p>
+            </ul>
             <article>Features
                 <ul>
                     <li>Link Shortening</li>
@@ -28,7 +30,7 @@ export default function Footer() {
                     <li>Contacts</li>
                 </ul>
             </article>
-        <ul className='footer_icons'>
+        <ul className='logo'>
             <li><img src="https://img.icons8.com/ios/50/000000/facebook-new.png" alt="facebook logo" /></li>
             <li><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png" alt="insta logo"/></li>
          <li><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png" alt="twitter logo"/></li>

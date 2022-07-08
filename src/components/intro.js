@@ -5,7 +5,7 @@ export default function Intro() {
     <div className = 'intro'>
             <div className = 'inside_text'>
             <h1 className='quote'>More Than Just<br/>Shorter Links</h1>
-            Build your brand's recognition and get detailed<br/> insights 
+            Build your brand's recognition and get detailed<br/> insights
             on how your links are performing.
             </div>
             <img  className ='img' src='/images/illustration-working.svg'  alt = "working logo" />
