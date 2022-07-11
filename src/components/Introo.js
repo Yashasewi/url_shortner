@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Intro() {
+export default function Introo() {
   return (
     <div className = 'intro'>
             <div className = 'inside_text'>

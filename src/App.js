@@ -1,5 +1,5 @@
 import Header from './components/Header';
-import Intro from './components/Intro';
+import Intro from './components/Introo';
 import Url from './components/Url';
 import Statistics from './components/Statistics';
 import Boost from './components/Boost';
@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div className="App">
       <Header />
-      <Intro />
+      <Introo />
       <Url /> 
      <Statistics />
       <Boost />
