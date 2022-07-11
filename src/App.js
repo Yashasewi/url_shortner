@@ -1,5 +1,5 @@
 import Header from './components/Header';
-import Intro from './components/Introo';
+import Introo from './components/Introo';
 import Url from './components/Url';
 import Statistics from './components/Statistics';
 import Boost from './components/Boost';
